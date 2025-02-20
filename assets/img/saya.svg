@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.6in" height="6.4in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3600 6400"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#373435;stroke-width:6.94488}
+    .str0 {stroke:#373435;stroke-width:6.94488}
+    .fil1 {fill:#373435}
+    .fil0 {fill:#373435}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="66" y="930" width="4170" height="2985"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <ellipse class="fil0 str0" cx="1790" cy="2963" rx="1173" ry="1167"/>
+  <g style="clip-path:url(#id0)">
+   <image x="66" y="930" width="4170" height="2985" xlink:href="saya_Images\saya_ImgID1.png"/>
+  </g>
+  <path class="fil1 str1" d="M957 3767c25,36 93,96 187,155 94,59 215,117 355,153 141,36 302,50 493,9 191,-41 411,-138 528,-212 118,-74 132,-127 39,-121 -93,6 -294,71 -489,101 -194,30 -381,25 -542,4 -160,-20 -295,-57 -384,-85 -89,-28 -133,-46 -163,-50 -31,-3 -49,9 -24,46z"/>
+ </g>
+</svg>
